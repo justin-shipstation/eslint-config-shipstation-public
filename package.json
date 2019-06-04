@@ -1,0 +1,13 @@
+{
+  "name": "eslint-config-shipstation-public",
+  "version": "1.0.0",
+  "description": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "eslint": "^5.13.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.4.0",
+    "eslint-restricted-globals": "^0.2.0"
+  }
+}

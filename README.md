@@ -5,10 +5,6 @@ ESLint configuration for ShipStation
 
 First, ask yourself: am I using react or not? If you're using react, use `shipstation/react`, otherwise use `shipstation/base`.
 
-Add the package as a dev dependency by adding the following line to dev dependencies:
-```
-"eslint-config-shipstation": "git+https://79d71a55ccc56d00291a2f85b652466fcb35c091:x-oauth-basic@github.com/shipstation/eslint-config-shipstation.git#v0.0.1",
-```
 
 In your eslint config add an extends line
 ```
